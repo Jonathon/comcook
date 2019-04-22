@@ -91,7 +91,17 @@ textarea {
    ========================================================================== */
 
 
-
+.appheading {
+    color: red;
+    font-family: 'Lobster', cursive;
+    width: 500px;
+    background-color: green;
+    padding: 15px 30px;
+    border-radius: 15px;
+    border-color: blue;
+    border-width: 10px;
+    border-style: solid;
+}
 
 
 
